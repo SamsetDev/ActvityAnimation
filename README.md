@@ -3,7 +3,7 @@ animation
 
 <h1>Live Sample</h1>
 
-![output_v193m7](https://cloud.githubusercontent.com/assets/12843976/13315442/a5d7279a-dbd0-11e5-8412-f56f45c8e37c.gif)
+http://samsetdev.blogspot.in/2016/04/activitytransition.html
 
 <h1>Credits</h1>
 
