@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:background="?android:selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical" >
+<!-- android:background="?android:selectableItemBackground"-->
+    <ImageView
+        android:id="@+id/country_flag"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@mipmap/ic_launcher"
+        android:transitionName="@string/transition_name_flag"
+        android:background="@drawable/circle"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/country_flag"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/country_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jonh Doe"
+            android:textColor="#000"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/country_lang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+01 123456789"
+            android:textColor="#9f9f9f"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/CONTACT_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Allahabad"
+            android:textColor="#9f9f9f"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">RecyclerAnimation</string>
+
+
+    <string name="title_activity_secondactivity">secondactivity</string>
+    <string name="transition_name_name">transition:NAME</string>
+    <string name="transition_name_flag">transition:FLAG</string>
+    <string name="transition_name_lang">transition:LANGUAGE</string>
+    <string name="transition_name_city">transition:CITY</string>
+
+
+
+    <string-array name="country">
+        <item >India</item>
+        <item>United States</item>
+        <item>Canada</item>
+        <item>Australia</item>
+        <item>United Kingdom</item>
+        <item>Philippines</item>
+        <item >Japan</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>Russia</item>
+        <item>Malaysia</item>
+        <item>France</item>
+        <item>Sweden</item>
+        <item>New Zealand</item>
+        <item>Singapore</item>
+        <item>BanglaDesh</item>
+        <item>Pakistan</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+        <item>Tibbat</item>
+        <item>Shri Lanka</item>
+        <item>Ukrain</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Tajakistan</item>
+        <item>Afganistan</item>
+        <item>Antartika</item>
+        <item>Myanmar</item>
+        <item>Viyatnam</item>
+        <item>Taivaan</item>
+        <item>South Koria</item>
+        <item>North Koria</item>
+        <item>Dubai</item>
+        <item>China</item>
+        <item>Morissus</item>
+        <item>Kajakhstan</item>
+        <item>Tirkmanistan</item>
+        <item>Kyrgystan</item>
+        <item>Seychelles</item>
+        <item>Austriya</item>
+        <item>Sudan</item>
+        <item>Naijeria</item>
+
+    </string-array>
+    <string-array name="language">
+        <item >Hindi</item>
+        <item>English</item>
+        <item>English</item>
+        <item>Spanish</item>
+        <item>	Arabic</item>
+        <item>Portuguese</item>
+        <item >Japanees</item>
+        <item>Italian</item>
+        <item>German</item>
+        <item>Russian</item>
+        <item>Malaysian</item>
+        <item>Franch</item>
+        <item>Sweden</item>
+        <item>New Zealand</item>
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Hindi</item>
+        <item>Hindi</item>
+        <item>Hindi</item>
+        <item>Tibbat</item>
+        <item>Shri Lanka</item>
+        <item>Ukrain</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Tajakistan</item>
+        <item>Afganistan</item>
+        <item>Antartika</item>
+        <item>Myanmar</item>
+        <item>Viyatnam</item>
+        <item>Taivaan</item>
+        <item>South Koria</item>
+        <item>North Koria</item>
+        <item>Dubai</item>
+        <item>Chines</item>
+        <item>Morissus</item>
+        <item>Kajakhstan</item>
+        <item>Tirkmanistan</item>
+        <item>Kyrgystan</item>
+        <item>Seychelles</item>
+        <item>Austriya</item>
+        <item>Sudan</item>
+        <item>Naijeria</item>
+
+    </string-array>
+</resources>
